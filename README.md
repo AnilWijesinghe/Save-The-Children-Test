@@ -47,13 +47,13 @@ The other REST API is for retreiving decrypted user information.
    
    Then we have two method to up and run this project
 
-Method 1 :
+   Method 1 :
 
-   mvn spring-boot:run
+      mvn spring-boot:run
 
-Method 2 :
+   Method 2 :
 
-   java -jar target/practicaltest-0.0.1-SNAPSHOT.jar
+      java -jar target/practicaltest-0.0.1-SNAPSHOT.jar
 
 
 #### API Reference
