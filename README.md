@@ -2,7 +2,7 @@
 
 ![Project Image](project-image-url)
 
-> This is a ReadMe template.
+> This is a ReadMe template for practical test Java developer in Save The Childen UK.
 
 ---
 
@@ -37,16 +37,22 @@ Building and deployement instructions of practical test Java developer in Save T
 
 #### Installation
 
+JDK Install
 Maven install
 Clone the project
+Go to the project path through command line interface
+Run Following commands
+   mvn package  or mvn install   
+   
+   Then we have two method to up and run this project
 
 Method 1 :
 
-Run as Spring boot Project
+   mvn spring-boot:run
 
 Method 2 :
 
-Generate JAR and run (java -jar filename.jar)
+   java -jar target/practicaltest-0.0.1-SNAPSHOT.jar
 
 
 #### API Reference
