@@ -74,11 +74,11 @@ The other REST API is for retreiving decrypted user information.
             {
                 "title" : "Mr",
                 "firstName": "Anil",
-              "lastName" : "Anjuna",
+                "lastName" : "Anjuna",
                 "addressLine1": "No 07",
-              "addressLine2" : "Rothwell Steet",
+                "addressLine2" : "Rothwell Steet",
                 "postCode": "BL3 6HY",
-              "city" : "Bolton",
+                "city" : "Bolton",
                 "country": "United Kingdom",
                 "identityNumber": "903153806V"
             }
