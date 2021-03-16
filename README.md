@@ -38,11 +38,11 @@ The other REST API is for retreiving decrypted user information.
 
 #### Installation
 
-JDK Install
-Maven install
-Download the project from master branch
-Go to the project path through command line interface
-Run Following commands
+* JDK Install
+* Maven install
+* Clone the project from git hub
+* Go to the project path through command line interface
+* Run Following commands
    mvn package or mvn install   
    
    Then we have two method to up and run this project
