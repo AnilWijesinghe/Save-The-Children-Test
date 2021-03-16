@@ -2,7 +2,7 @@
 
 ![Project Image](project-image-url)
 
-> This is a ReadMe template for practical test Java developer in Save The Childen UK.
+> This is ReadMe template for practical test Java developer in Save The Childen UK.
 
 ---
 
