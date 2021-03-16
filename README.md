@@ -1,8 +1,8 @@
-# Read Me Template
+# Read Me
 
 ![Project Image](project-image-url)
 
-> This is ReadMe template for practical test Java developer in Save The Childen UK.
+> Building and deployement instructions of practical test Java developer in Save The Childen UK.
 
 ---
 
@@ -17,7 +17,8 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Building and deployement instructions of practical test Java developer in Save The Childen UK.
+This project has two java REST API services. One REST API is to take users information and then encrypt and store that information. 
+The other REST API is for retreiving decrypted user information. 
 
 #### Technologies
 
