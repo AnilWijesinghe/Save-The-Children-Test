@@ -37,6 +37,9 @@ Building and deployement instructions of practical test Java developer in Save T
 
 #### Installation
 
+Maven install
+Clone the project
+
 Method 1 :
 
 Run as Spring boot Project
