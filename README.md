@@ -2,7 +2,7 @@
 
 ![Project Image](project-image-url)
 
-> Building and deployement instructions of practical test Java developer in Save The Childen UK.
+>Building and deployement instructions of practical test Java developer in Save The Childen UK.
 
 ---
 
@@ -17,7 +17,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-This project has two java REST API services. One REST API is to take users information and then encrypt and store that information. 
+Two Java REST API services have been built in this project. One REST API is to take users information and then encrypt that information and store. 
 The other REST API is for retreiving decrypted user information. 
 
 #### Technologies
@@ -40,10 +40,10 @@ The other REST API is for retreiving decrypted user information.
 
 JDK Install
 Maven install
-Clone the project
+Download the project from master branch
 Go to the project path through command line interface
 Run Following commands
-   mvn package  or mvn install   
+   mvn package or mvn install   
    
    Then we have two method to up and run this project
 
